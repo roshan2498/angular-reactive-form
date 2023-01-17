@@ -1,0 +1,4 @@
+Angular Reactive Forms
+Recap:
+  1. In reactive forms we build our form explicitly in code inside our component
+  2. Directives that we need to remember : [formGroup],formControlName,formGroupName
